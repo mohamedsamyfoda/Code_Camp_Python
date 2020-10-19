@@ -1,0 +1,4 @@
+text = "Hello World"
+name = " Yaqoup Muhammad"
+
+print(name.replace("Muhammad","Ahmed"))
